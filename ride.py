@@ -2,10 +2,10 @@
 """
 ID: prateek53
 LANG: PYTHON3
-TASK: gift1
+TASK: ride
 """
-fin = open ('gift1.in', 'r')
-fout = open ('gift1.out', 'w')
+fin = open ('ride.in', 'r')
+fout = open ('ride.out', 'w')
 l=[]
 
 
